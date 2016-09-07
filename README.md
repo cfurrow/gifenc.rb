@@ -1,8 +1,8 @@
 # gifenc.rb
 A ruby version of the gifenc shell script created by [pkh.me](http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html#usage)
 
-## Setup
-- Be sure to have ffmpeg installed (>2.6). The easiest way to do that on OSX is via `brew install ffmpeg` if you have homebrew installed.
+## Dependencies
+**FFMPEG 2.6+** Be sure to have ffmpeg installed (>2.6). The easiest way to do that on OSX is via `brew install ffmpeg` if you have homebrew installed.
 
 ## How to install
 Copy the gifenc.rb file to your scripts directory, or create a new one in your HOME directory: `~/scripts`.
